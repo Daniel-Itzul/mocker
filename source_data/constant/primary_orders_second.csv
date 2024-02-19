@@ -1,0 +1,4 @@
+id,customer_id,status,order_date
+855,98,delivered,2023-01-30
+856,583,delivered,2023-01-30
+859,735,open,2023-02-01
